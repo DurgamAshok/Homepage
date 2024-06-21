@@ -1,0 +1,41 @@
+/* CalendarStyles.css */
+.react-calendar {
+    background-color: white;
+    color: black;
+  }
+  
+  .react-calendar__tile {
+    background-color: white;
+    color: black;
+  }
+  
+  .react-calendar__tile--now {
+    background: #f0f0f0;
+    color: black;
+  }
+  
+  .react-calendar__tile--active {
+    background: #1976d2;
+    color: white;
+  }
+  
+  .react-calendar.dark-mode {
+    background-color: #333;
+    color: white;
+  }
+  
+  .react-calendar__tile.dark-mode {
+    background-color: #333;
+    color: white;
+  }
+  
+  .react-calendar__tile--now.dark-mode {
+    background: #555;
+    color: white;
+  }
+  
+  .react-calendar__tile--active.dark-mode {
+    background: #90caf9;
+    color: black;
+  }
+  
